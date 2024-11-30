@@ -18,5 +18,8 @@
 
 ## Motto
 
-> _“SMALL STEPS EVERYDAY”
-> ”PROGRESS IS PROGRESS”_
+> _“SMALL STEPS EVERYDAY”_
+
+## My work
+
+- [Policy](https://prxsss.github.io/policy)
