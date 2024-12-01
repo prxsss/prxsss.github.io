@@ -1,4 +1,4 @@
-![Cute Golden Retriever](/images//A%20cute%20golden%20retriever%20puppy.jpg)
+![Phuriphat's picture](/images//self-portrait.jpg)
 
 # Phuriphat Kittikun (Proster)
 
@@ -20,6 +20,6 @@
 
 > _“SMALL STEPS EVERYDAY”_
 
-## My work
+## My works
 
 - [Policy](https://prxsss.github.io/policy)
