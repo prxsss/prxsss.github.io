@@ -2,11 +2,9 @@
 
 # Phuriphat Kittikun (Proster)
 
-### **Kasetsart University**
+## Education
 
-### **Faculty of Science at Sriracha**
-
-### Department of Computer Science
+- **B.S. Computer Science**, Kasetsart University, TH. 2022-2026
 
 ---
 
