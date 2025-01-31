@@ -23,3 +23,4 @@
 - [Policy](https://prxsss.github.io/policy)
 - [Christmas & New Year 2025](https://prxsss.github.io/christmas-card)
 - [Uniqueness](https://prxsss.github.io/uniqueness)
+- [Boardgame](https://prxsss.github.io/boardgame)
